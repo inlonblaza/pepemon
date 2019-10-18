@@ -1,0 +1,63 @@
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\bin\Debug\huta.exe.config
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\bin\Debug\Database1.accdb
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\bin\Debug\huta.exe
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\bin\Debug\huta.pdb
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\bin\Debug\huta.xml
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.Form1.resources
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.Resources.resources
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.RegisterForm.resources
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.exe
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.xml
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.pdb
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.Homepage.resources
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.Homepage1.resources
+C:\Users\Windows 7\documents\visual studio 2010\Projects\huta\huta\obj\x86\Debug\huta.ACTform1.resources
+F:\huta\huta\bin\Debug\huta.exe.config
+F:\huta\huta\obj\x86\Debug\huta.exe
+F:\huta\huta\obj\x86\Debug\huta.xml
+F:\huta\huta\obj\x86\Debug\huta.pdb
+F:\huta\huta\bin\Debug\Database1.accdb
+F:\huta\huta\bin\Debug\huta.exe
+F:\huta\huta\bin\Debug\huta.pdb
+F:\huta\huta\bin\Debug\huta.xml
+F:\huta\huta\obj\x86\Debug\huta.ACTform1.resources
+F:\huta\huta\obj\x86\Debug\huta.Form1.resources
+F:\huta\huta\obj\x86\Debug\huta.Homepage.resources
+F:\huta\huta\obj\x86\Debug\huta.Homepage1.resources
+F:\huta\huta\obj\x86\Debug\huta.Resources.resources
+F:\huta\huta\obj\x86\Debug\huta.RegisterForm.resources
+F:\huta\huta\obj\x86\Debug\huta.vbproj.GenerateResource.Cache
+C:\Users\leo1988\Desktop\huta\huta\bin\Debug\huta.exe.config
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.exe
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.xml
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.pdb
+C:\Users\leo1988\Desktop\huta\huta\bin\Debug\Database1.accdb
+C:\Users\leo1988\Desktop\huta\huta\bin\Debug\huta.exe
+C:\Users\leo1988\Desktop\huta\huta\bin\Debug\huta.pdb
+C:\Users\leo1988\Desktop\huta\huta\bin\Debug\huta.xml
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.ACTform1.resources
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.Form1.resources
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.Resources.resources
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.RegisterForm.resources
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.vbproj.GenerateResource.Cache
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.BSITform1.resources
+C:\Users\leo1988\Desktop\huta\huta\obj\x86\Debug\huta.Subjectavailable.resources
+C:\Users\Windows 7\Desktop\huta\huta\bin\Debug\huta.exe.config
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.exe
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.xml
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.pdb
+C:\Users\Windows 7\Desktop\huta\huta\bin\Debug\Database1.accdb
+C:\Users\Windows 7\Desktop\huta\huta\bin\Debug\huta.exe
+C:\Users\Windows 7\Desktop\huta\huta\bin\Debug\huta.pdb
+C:\Users\Windows 7\Desktop\huta\huta\bin\Debug\huta.xml
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.ACTForm1.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.BSITform1.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.Form1.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.Resources.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.RegisterForm.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.Subjectavailable.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.Form2.resources
+C:\Users\Windows 7\Desktop\huta\huta\obj\x86\Debug\huta.vbproj.GenerateResource.Cache
